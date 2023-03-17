@@ -1,0 +1,2 @@
+Here I should have a SQL visual studio Project whose goal is to build it and export DLL file, in order to use it in the Seccion 11: Emsamblados.sql.
+What means I want to use it through the sql script mentioned before
